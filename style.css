@@ -1,0 +1,18 @@
+body {
+  background: white;
+  width:50%;
+  margin:auto;
+}
+
+.mydiv{
+  background-color: antiquewhite;
+  border: double 3px orange;
+}
+.cats{
+  background-color: cadetblue;
+  border: double 3px orange;
+}
+.div1{
+  background-color: aquamarine;
+  border: double 1px blue;
+}
